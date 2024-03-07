@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+li {
+    list-style: none;
+}
+
+nav, section {
+    height: 100vh;
+}

@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    margin: 100px auto;
+    height: max-content;
+    width: max-content;
+    align-items: center;
+    margin-top: 100px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.second-block img {
+    height: 400px;
+}
+
+.gender {
+    font-weight: normal;
+}
+
+h1 {
+    color: rgb(184, 31, 31);
+    border: 1px solid black;
+}
+
+#register-word {
+    font-size: 34px;
+    color: rgb(173, 28, 28);
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+th, td, tr {
+    border: 1px solid black;
+}

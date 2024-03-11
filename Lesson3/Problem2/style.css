@@ -1,0 +1,19 @@
+div+span {
+    background-color: red;
+}
+
+div+span, span+span {
+    color: pink;
+}
+
+div+span {
+    background-color: yellow;
+}
+
+.items div>p {
+    background-color: yellow;
+}
+
+nav ul li:first-child {
+    background-color: gold;
+}

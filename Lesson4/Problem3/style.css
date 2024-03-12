@@ -1,0 +1,37 @@
+* {
+    transition: all .5s ease;
+}
+
+h1 {
+    text-align: center;
+}
+
+.big {
+    height: 400px;
+    background-color: pink;
+    border: 20px solid indianred;
+}
+
+.small {
+    width: 70%;
+    height: 150px;
+    background-color: rgb(189, 189, 255);
+    border: 20px solid blue;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.big:hover {
+    background-color: indianred;
+    border-color: pink;
+}
+
+.small:hover {
+    background-color: blue;
+    border-color: rgb(189, 189, 255);
+    color: white;
+}

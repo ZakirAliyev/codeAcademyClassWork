@@ -1,0 +1,25 @@
+.margin {
+    height: 700px;
+    width: 700px;
+    background-color: green;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.box {
+    border: 100px solid orange;
+    padding: 100px;
+    margin: 100px;
+    background-color: skyblue;
+}
+
+.content {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}

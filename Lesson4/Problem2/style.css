@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 35px;
+}
+
+#section1, #section3 {
+    background-image: url('./img/bg.jpeg');
+    background-attachment: fixed;
+}
+
+#section2 {
+    background-image: url('./img/sec2.jpeg');
+}
+
+#section4 {
+    background: linear-gradient(to bottom right, blue, yellow, green, teal, red);
+}

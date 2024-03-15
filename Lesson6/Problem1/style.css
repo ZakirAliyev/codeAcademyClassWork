@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 700px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.card {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease;
+}
+
+.card h1, .card p {
+    font-size: 25px;
+}
+
+.card:first-child {
+    background-color: red;
+}
+
+.card:nth-child(2) {
+    background-color: green;
+}
+
+.card:nth-child(3) {
+    background-color: blue;
+}
+
+.card:last-child {
+    background-color: orange;
+}
+
+.card h2 {
+    display: none;
+}
+
+.card:hover {
+    color: white;
+}
+
+.card:hover h2 {
+    display: block;
+}
+
+.card:hover h1 {
+    display: none;
+}
+
+.card:first-child:hover {
+    transform: scale(1.2);
+}
+
+.card:nth-child(2):hover {
+    transform: translate(230px, -230px);
+}
+
+.card:nth-child(3):hover {
+    transform: rotate(360deg);
+    transition-duration: 2s;
+}
+
+.card:last-child:hover {
+    transform: skewX(30deg);
+}

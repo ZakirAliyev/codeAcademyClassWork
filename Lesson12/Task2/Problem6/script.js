@@ -1,0 +1,1 @@
+let n = +window.prompt("Enter number: ")

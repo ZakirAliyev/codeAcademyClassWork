@@ -207,3 +207,13 @@ let users = [
         "Digital marketer and content creator."
     ),
 ];
+
+const newUser = new User("Zakir", "Aliyev", 20, "Male", "Azerbaijani", "ZakirAliyev", "aliyevzakir814@gmail.com", true, "Admin123@", "Hello, World!");
+createUser(users, newUser);
+console.log(users);
+console.log(sortUsersByUsername(users));
+console.log(filterByBirthYear(users, 1990));
+console.log(login(users, "johndoe", "password123"));
+console.log(logOut(users, "johndoe"));
+deleteUser(users, "johndoe");
+console.log(users);

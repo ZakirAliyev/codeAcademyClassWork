@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    align-items: center;
+
+    input {
+        width: 100%;
+        padding: 10px 25px;
+        margin-top: 10px;
+        outline: none;
+    }
+
+    label {
+        font-size: 25px;
+        display: block;
+        margin-top: 20px;
+    }
+
+    button {
+        margin-top: 20px;
+        background-color: rgb(91, 91, 255);
+        padding: 10px 25px;
+        border: none;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+    }
+
+
+    .filter {
+        width: 50%;
+    }
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+    th,
+    td,
+    tr {
+        border: 1px solid black;
+        padding: 10px 0;
+    }
+
+    th {
+        min-width: 200px;
+    }
+
+    .tbody {
+
+        button {
+            margin: 5px 5px 0 5px;
+            padding: 5px 15px;
+        }
+    }
+}

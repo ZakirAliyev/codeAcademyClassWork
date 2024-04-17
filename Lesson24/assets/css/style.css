@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.searchInp {
+    margin: 20px 0;
+    padding: 3px 10px;
+}

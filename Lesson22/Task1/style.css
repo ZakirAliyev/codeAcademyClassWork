@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Roboto";
+    transition: all .4s ease;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background: rgb(4, 182, 207);
+    background: linear-gradient(90deg, rgba(4, 182, 207, 1) 0%, rgba(6, 163, 156, 1) 49%, rgba(27, 89, 163, 1) 100%);
+
+    nav {
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .urls {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+
+            a {
+                font-size: 20px;
+                color: black;
+            }
+        }
+    }
+}
+
+main {
+    .card {
+        padding: 10px;
+        width: 100%;
+        border: 1px solid black;
+        border-radius: 10px;
+
+        img {
+            min-height: 200px;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        .title {
+            margin: 20px 0;
+
+            h3 {
+                margin-top: 10px;
+            }
+        }
+
+        .actions {
+            display: flex;
+            gap: 15px;
+            .fa-solid {
+                border: 1px solid black;
+                border-radius: 5px;
+                padding: 10px;
+            }
+
+            .fa-basket-shopping {
+                border-color: rgb(241, 241, 79);
+                color: rgb(241, 241, 79);
+            }
+
+            .fa-basket-shopping:hover {
+                background-color: rgb(241, 241, 79);
+                color: white;
+            }
+
+            .fa-trash {
+                border-color: red;
+                color: red;
+            }
+
+            .fa-trash:hover {
+                background-color: red;
+                color: white;
+            }
+        }
+    }
+}

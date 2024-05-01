@@ -1,0 +1,148 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "3",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "4",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "5",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "6",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "7",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "8",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "9",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "10",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "11",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "12",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "13",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "14",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "15",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "16",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "17",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    },
+    {
+      "id": "18",
+      "title": "a title",
+      "posterUrl": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+      "genre": "horror",
+      "releaseYear": "1777",
+      "cast": []
+    }
+  ]
+}
